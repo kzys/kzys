@@ -1,3 +1,1 @@
-Kazuyoshi Kato / 加藤 和良
-
-* Hi there! I'm a Japanese software developer, live in Seattle, work for Amazon Web Services.
+Hi there. My name is [Kazuyoshi Kato](https://8-p.info/me/). I'm a Japanese software developer in Seattle.
