@@ -7,4 +7,4 @@ Regarding work-related projects including firecracker-containerd and containerd,
 
 こんにちは! 加藤和良です。日本人のプログラマで、シアトルのワシントン州に住んでいます。代名詞は (日本語だとあまり意識することはないのですが) he/him です。
 
-仕事関係のプロジェクトに関しては、基本的には太平洋時間の 9am - 5pm あたりに作業するようにしています。
+仕事関係のプロジェクト (firecracker-containerd や containerd など) に関しては、基本的には太平洋時間の 9am - 5pm あたりに作業するようにしています。
